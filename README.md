@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-My name is Eric Joung, a 3rd year Software Engineering student at McGill University.
+My name is Eric Joung, a 4th year Software Engineering student at McGill University.
 
 ## **Interesting facts about me😎**
-- 💻 Practiced web development during my two internships at Bombardier Recreational Products
+- 💻 Learned lots about web development and operations during my 3 interships
 - 🧑‍💻 Participated in multiple hackathons with friends to learn new skills
 - 🎮 Joined the McGill Game Dev club after completing online tutorials
 
